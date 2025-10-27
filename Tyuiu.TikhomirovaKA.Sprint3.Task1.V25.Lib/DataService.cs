@@ -9,7 +9,7 @@ namespace Tyuiu.TikhomirovaKA.Sprint3.Task1.V25.Lib
             double result = 1;
             for (int i = startValue; i <= stopValue; i++)
             {
-                result *= (Math.Pow(value, i) + (1/4)) * Math.Cos(5);
+                result *= (Math.Pow(value, i) - (1/4)) * Math.Cos(5);
             }
             return Math.Round(result, 3);
         }
