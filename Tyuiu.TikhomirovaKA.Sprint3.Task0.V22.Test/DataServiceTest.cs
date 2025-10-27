@@ -13,7 +13,7 @@ namespace Tyuiu.TikhomirovaKA.Sprint3.Task0.Test
             int sv = 1;
             int ev = 5;
             double res = ds.GetMultiplySeries(a, sv, ev);
-            Assert.AreEqual(-346976844.8206198, res);
+            Assert.AreEqual(-346976844.821, res);
         }
     }
 }

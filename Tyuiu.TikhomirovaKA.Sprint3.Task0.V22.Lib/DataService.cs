@@ -11,7 +11,7 @@ namespace Tyuiu.TikhomirovaKA.Sprint3.Task0.Lib
             {
                 result *= (Math.Pow(value, i) + 4) * Math.Cos(value);
             }
-            return result;
+            return Math.Round(result, 3);
         }
     }
 }
