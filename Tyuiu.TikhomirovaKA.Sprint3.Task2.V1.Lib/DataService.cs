@@ -6,7 +6,7 @@ namespace Tyuiu.TikhomirovaKA.Sprint3.Task2.V1.Lib
     {
         public double GetSumSeries(int startValue, int stopValue)
         {
-            double result = 1;
+            double result = 0;
             do
             {
                 result += Math.Sin(startValue) * Math.Pow(0.5, 2);
