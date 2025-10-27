@@ -11,7 +11,7 @@ namespace Tyuiu.TikhomirovaKA.Sprint3.Task5.V3.Lib
             {
                 for (int j = startValue2; j <= stopValue2; j++)
                 {
-                    result += (Math.Sin(startValue2) + x) / x;
+                    result += (Math.Sin(j) + x) / x;
                 }
             }
             return Math.Round(result, 3);
