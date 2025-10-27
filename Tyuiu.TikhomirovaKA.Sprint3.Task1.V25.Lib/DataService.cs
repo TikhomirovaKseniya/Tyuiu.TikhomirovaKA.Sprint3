@@ -7,7 +7,7 @@ namespace Tyuiu.TikhomirovaKA.Sprint3.Task1.V25.Lib
         public double GetMultiplySeries(int value, int startValue, int stopValue)
         {
             double result = 1;
-            for (int i = startValue; i < stopValue; i++)
+            for (int i = startValue; i <= stopValue; i++)
             {
                 result *= (Math.Pow(value, i) + (1/4)) * Math.Cos(5);
             }
