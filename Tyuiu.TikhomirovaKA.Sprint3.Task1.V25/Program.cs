@@ -1,4 +1,4 @@
-﻿using Tyuiu.TikhomirovaKA.Sprint3.Task1.Lib;
+using Tyuiu.TikhomirovaKA.Sprint3.Task1.V25.Lib;
 
 internal class Program
 {
@@ -9,7 +9,7 @@ internal class Program
         Console.WriteLine("**************************************************************************");
         Console.WriteLine("* Спринт #3                                                              *");
         Console.WriteLine("* Тема: Алгоритмы циклической структуры                                  *");
-        Console.WriteLine("* Задание #0                                                             *");
+        Console.WriteLine("* Задание #1                                                             *");
         Console.WriteLine("* Вариант #25                                                            *");
         Console.WriteLine("* Выполнила: Выполнила Тихомирова К. А. | ИБКСб-25-1                     *");
         Console.WriteLine("**************************************************************************");
