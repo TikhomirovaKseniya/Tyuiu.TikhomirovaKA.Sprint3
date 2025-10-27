@@ -1,4 +1,4 @@
-﻿namespace Tyuiu.TikhomirovaKA.Sprint3.Task7.V22.Test
+﻿namespace Tyuiu.TikhomirovaKA.Sprint3.Task3.V18.Test
 {
     [TestClass]
     public sealed class DataServiceTest
